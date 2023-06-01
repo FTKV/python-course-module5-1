@@ -1,6 +1,15 @@
 text1 = "Hello World"
 text2 = 'Hello World'
 
+text3 = """gsegsjhdtghs
+
+wewetwe
+tgewrfewr
+gaerfqwte
+"""
+
+print(text3)
+
 text4 = "sggwfgwe"\
     "fsgsfsdf"\
     "l;yerlte"
